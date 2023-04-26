@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dinal Pasindu</h1>
-<h3 align="center">A passionate Mobile developer</h3>
+<h3 align="center">A passionate Mobile Application Developer</h3>
 
 
 
