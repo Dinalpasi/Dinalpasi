@@ -1,7 +1,7 @@
-[![Banner](https://example.com/banner.png)](https://example.com)
+
 <h1 align="center">Hi 👋, I'm Dinal Pasindu</h1>
 <h3 align="center">A passionate Mobile developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."> 
+
 
 
 - 🌱 I’m currently learning **Java**
