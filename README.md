@@ -1,4 +1,4 @@
-[![MasterHead][(https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FJc1n15fMSf8AAAAC%2Fglitch-discord.gif&tbnid=VInPqQKAKjKykM&vet=12ahUKEwjS5qSWhsj-AhX9G7cAHYJKDNkQMygDegQIARBb..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fglitch-discord-gif-gif-20819419&docid=Zc_imQWb5ktlhM&w=498&h=280&q=banner%20glitch%20gif%20software%20engineer&hl=en&client=safari&ved=2ahUKEwjS5qSWhsj-AhX9G7cAHYJKDNkQMygDegQIARBb)
+[![Banner](https://example.com/banner.png)](https://example.com)
 <h1 align="center">Hi 👋, I'm Dinal Pasindu</h1>
 <h3 align="center">A passionate Mobile developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."> 
